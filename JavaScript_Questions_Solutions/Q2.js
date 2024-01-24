@@ -1,0 +1,3 @@
+// Q.2 What is a prototype chain
+
+// In JavaScript, the prototype chain is a mechanism by which objects in the language inherit properties and methods from other objects. Every object in JavaScript has a prototype, which is essentially a reference to another object. When you access a property or method on an object, and that property or method is not directly present in the object, JavaScript looks for it in the object's prototype, and this process continues up the chain until the property or method is found or until the end of the chain is reached.
